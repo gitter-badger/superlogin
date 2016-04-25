@@ -1,5 +1,7 @@
 # SuperLogin
 
+[![Join the chat at https://gitter.im/tohagan/superlogin](https://badges.gitter.im/tohagan/superlogin.svg)](https://gitter.im/tohagan/superlogin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/colinskow/superlogin.png?branch=master)](https://travis-ci.org/colinskow/superlogin)
 
 SuperLogin is a full-featured NodeJS/Express user authentication solution for APIs and Single Page Apps (SPA) using CouchDB or Cloudant.
